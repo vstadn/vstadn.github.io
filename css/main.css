@@ -69,7 +69,10 @@ a.main-menu {
 }
 
 .image img {
-	width: 100%;	
+	width: 280px;
+	height: 150px;
+	border-radius: 5px;
+	border:1px solid  #343432;
 }
 
 .image .caption {
@@ -93,16 +96,10 @@ a.main-menu {
 }
 
 #main_section {
-	margin: 2% 4% 0% 4%;
+	width: 80%;
+	margin: 2em auto;
 } 
 
-footer {
-	padding: 1% 0%;
-	color: white;
-	text-align: center;
-	background-color: #343432;
-	margin-top: 2%;
-}
 #contact_content {
 	background-color: yellow;
 	height: 500px;
@@ -122,12 +119,21 @@ footer {
 }
 
 footer {
+	padding: 1% 0%;
+	color: white;
+	text-align: center;
+	background-color: #343432;
+	margin-top: 2%;
+}
+
+footer {
 	color:#8E8E8C;
 }
+
 footer li {
 	padding: 10px;
 	display: inline-block;
-	font-size: 1.3em;	
+	font-size: 1em;	
 }
 footer a {
 	color:white;
@@ -142,6 +148,6 @@ footer a:hover {
 	color:#8E8E8C;
 }
 #copyright{
-	margin-top: 2%;
+	margin-top: 1em;
 	color: white;
 }
