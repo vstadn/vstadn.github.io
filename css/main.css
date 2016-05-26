@@ -19,6 +19,7 @@ body {
 	text-align: center;
 	background-color: #343432;
 	margin:0px auto 0px auto;
+
 	
 }
 
@@ -68,9 +69,7 @@ a.main-menu {
 }
 
 .image img {
-	width: 100%;
-	
-
+	width: 100%;	
 }
 
 .image .caption {
@@ -101,6 +100,8 @@ footer {
 	padding: 1% 0%;
 	color: white;
 	text-align: center;
+	background-color: #343432;
+	margin-top: 2%;
 }
 #contact_content {
 	background-color: yellow;
@@ -118,4 +119,29 @@ footer {
 	margin-right: 2%;
 	margin-left: 2%;
 	margin-top: 2%;
+}
+
+footer {
+	color:#8E8E8C;
+}
+footer li {
+	padding: 10px;
+	display: inline-block;
+	font-size: 1.3em;	
+}
+footer a {
+	color:white;
+}
+footer a:visited {
+	color:white;
+}
+footer a:active {
+	color:#8E8E8C;
+}
+footer a:hover {
+	color:#8E8E8C;
+}
+#copyright{
+	margin-top: 2%;
+	color: white;
 }
