@@ -177,10 +177,13 @@ footer a:hover {
 	color: white;
 }
 
-/* Mobile 
 @media only screen and (max-width: 1000px) {
 	body {
 		font-size: 25px;
 	}
+
+	#menu li:first-child {
+		display: block;
+	}
  }
- */
+ 
