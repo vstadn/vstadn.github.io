@@ -130,6 +130,8 @@ footer {
 
 footer {
 	color:#8E8E8C;
+	position: relative;
+	bottom: 0;
 }
 
 footer li {
