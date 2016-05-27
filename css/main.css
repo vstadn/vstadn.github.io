@@ -4,9 +4,13 @@
 }
 
 body {
- 	background-color: #8E8E8C;
+ 	background-color: #343432;
 	font-size: 16px;
 
+}
+
+#wrap {
+	background-color: #8E8E8C;
 }
 
 #center {
@@ -96,10 +100,9 @@ a.main-menu {
 }
 
 #main_section {
-
 	width: 80%;
-	
-	margin: 2em auto;
+	margin: 0 auto;
+	padding: 2em 0;
 } 
 
 #contact_content {
@@ -125,7 +128,6 @@ footer {
 	color: white;
 	text-align: center;
 	background-color: #343432;
-	margin-top: 2%;
 }
 
 footer {
