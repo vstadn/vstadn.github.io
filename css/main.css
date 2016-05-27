@@ -63,6 +63,9 @@ a.main-menu {
 	line-height: 1.5em;
 	font-size: 1.2em;
 }
+#tennis_text a {
+	color:#0987CD;
+}
 .grid {
 	width: 100%;
 	display:table;
