@@ -13,18 +13,15 @@ body {
 	background-color: white;
 	padding: 2em 0;
 	line-height: 1.5em;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: sans-serif;
 }
-
 
 #menu {
 	padding: 1em 0;
 	text-align: center;
 	background-color: #343432;
 	margin:0px auto;
-
-	
 }
 
 #menu li {
@@ -57,10 +54,9 @@ a.main-menu {
 #tennis_text {
 	text-align: center;
 	margin:0 auto;
-	padding:10px 5px;
-	
+	padding:10px 5px;	
 	width: 80%;
-	margin-bottom: 2em;
+	margin-bottom: 1em;
 	border-radius: 5px;
 	
 }
@@ -71,7 +67,6 @@ a.main-menu {
 	width: 100%;
 	display:table;
 	border-spacing: 10px;
-
 }
 
 .row {
@@ -100,45 +95,69 @@ a.main-menu {
 	border:4px solid #343432;
 } 
 
-#contact_content {
-	background-color: yellow;
-	height: 500px;
-	border-radius: 5px;
-	width:300px;
-	overflow: auto;
-	margin: 0 auto;
-}
-
-#contact_info {
-	text-align: center;
-	height: 250px;
-	background-color: blue;
-	margin-right: 2%;
-	margin-left: 2%;
-	margin-top: 2%;
-}
-
 #index {
 	width: 80%;
 	margin: 0 auto;
-	min-height: 500px;
-
+	min-height: 400px;
 }
+
 #index img {
   float: left;
-  margin: 0.4em 2em 1em 0;
+  margin: 0em 2em 1em 0;
   border-radius: 5px;
+}
+
+#education {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+#education img {
+	width: 100%;
+}
+#education h1{
+	margin-bottom: 2%;
+	color:#8E8E8C;
+}
+#education p {
+	margin-bottom: 2%;
+}
+
+#experience {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#experience h1{
+	margin-bottom: 2%;
+	color:#8E8E8C;
+}
+#experience p {
+	margin-bottom: 2%;
+}
+
+#classes {
+	width: 100%;
+	margin:0 auto;
+}
+#cs, #econ {
+	display: inline-block;
+	margin: 0 3em;
+	min-width: 400px;
+	text-align: left;
+}
+#classes h4 {
+	margin-top: 10px ;
+	margin-bottom: 10px;
+	font-size: 1.4em;
 }
 
 footer {
 	padding: 2em 0;
-	color: white;
+	color:#8E8E8C;
 	text-align: center;
 	background-color: #343432;
-}
-
-footer {
-	color:#8E8E8C;
 }
 
 footer li {
@@ -175,16 +194,18 @@ footer a:hover {
 	}
 
 	#wrap p {
-		font-size: 2.6em;
-		line-height: 1.3em;
+		text-align: center;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font-size: 32px;
+		line-height: 1.4em;
 	}
 
 	header {
-		font-size: 42px;
+		font-size: 2.6em;
 	}
 
 	 footer {
-	 	font-size: 30px;
+	 	font-size: 2.3em;
 	 }
 
 	#menu li:first-child {
@@ -196,6 +217,42 @@ footer a:hover {
 	.image img {
 		height: auto;
 		margin:2em 0;
+	}
+	#index {
+		text-align: center;
+	}
+	#index img {
+		width: 70%;
+		float: none;
+		margin: 0 auto;		
+		margin-bottom: 3em;
+		border-radius: 25px;
+	}
+	#education h1 {
+		margin-top: 5%;
+		margin-bottom: 5%;
+		font-size:42px;
+	}
+	#education p {
+		margin-bottom: 5%;
+	}
+	
+	#experience h1 {
+		font-size: 42px;
+		margin-bottom: 5%;
+		margin-top: 5%;
+	}
+	#experience h4 {
+		font-size: 35px;
+		line-height: 1.2em;
+		margin-bottom: 10px;
+	}
+	#classes {
+		line-height: 5em;
+	}
+	#classes li{
+		line-height: 1.4em;
+		font-size: 32px;
 	}
 
 	
