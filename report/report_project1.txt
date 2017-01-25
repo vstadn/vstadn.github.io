@@ -1,0 +1,40 @@
+1. Link = https://cs.earlham.edu/~vstadn14/project_one/vstadn.github.io/index.html (you should try both mobile and desktop, that’s what I spent most of my time working on).
+
+2. Target audience: both companies of any size and any individuals. 
+
+3. Goal of my audience will be to get to know me better as well as get important information, which includes extractions from resume (work-experience, education etc.)
+
+4.List of fictional visitors :
+
+Name		Gender	Age	Location	Occupation		Income		Web-Use	
+
+Chauncey 	Male	43	California	Tennis Coach		$48k		4-5 days/wk
+
+Bob		Male	14	Indiana		High school student	none		Daily
+
+Mona		Female	52	Chicago		CEO of tech comp	$275k		Daily
+
+
+5. Chauncey being a tennis coach visited my website to assess the level of my performance and maybe offer a transfer deal to different university.
+
+Bob being a high school student also came to my website to see my level of tennis performance, because he is looking for a coach and I am situated in his area.
+
+Mona being a CEO of tech company is looking for new employees in the Computer Science sphere, so she went to my web-site to go closely through my experience description.
+
+6. Chauncey looked through the pictures of me playing tennis and went to Earlham Men’s Tennis team website to evaluate overall team performance.
+
+Bob looked through the pictures and also got interested in Earlham, so he went to college’s website to check out offered majors.
+
+Mona assessed my experience and decided to contact me to invite for an interview.
+
+7. Check separate file
+
+8. Check separate files
+
+visual hierarchy used on tennis.html page for giving big table full of pictures.
+
+I am grouping content by relating them to same topic.
+
+All the pages should be reviewed at least once in 6 months and modified if needed.
+
+9. Added permission.
