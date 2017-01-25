@@ -102,11 +102,16 @@ a.main-menu {
 }
 
 #index img {
+  width: 227px;
+  height: 301px;
   float: left;
   margin: 0em 2em 1em 0;
   border-radius: 5px;
 }
 
+#index p{
+	padding-top: 30px;
+}
 #education {
 	width: 80%;
 	margin: 0 auto;
