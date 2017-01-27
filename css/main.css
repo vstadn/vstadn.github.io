@@ -27,11 +27,11 @@ body {
 #menu li {
 	padding: 0.4em;
 	display: inline;
-	font-size: 1.25em; 
+	font-size: 1.25em;
 	border-bottom-right-radius: 8px;
 	border-bottom-left-radius: 8px;
 }
-	
+
 a.main-menu:hover {
 	color: white;
 }
@@ -54,11 +54,11 @@ a.main-menu {
 #tennis_text {
 	text-align: center;
 	margin:0 auto;
-	padding:10px 5px;	
+	padding:10px 5px;
 	width: 80%;
 	margin-bottom: 1em;
 	border-radius: 5px;
-	
+
 }
 #tennis_text a {
 	color: #004187;
@@ -93,7 +93,7 @@ a.main-menu {
 	border-radius: 5px;
 	background-color: white;
 	border:4px solid #343432;
-} 
+}
 
 #index {
 	width: 80%;
@@ -103,7 +103,7 @@ a.main-menu {
 
 #index img {
   width: 227px;
-  height: 301px;
+  height: 100%;
   float: left;
   margin: 0em 2em 1em 0;
   border-radius: 5px;
@@ -168,7 +168,7 @@ footer {
 footer li {
 	padding: 10px;
 	display: inline-block;
-	font-size: 1.2em;	
+	font-size: 1.2em;
 }
 
 footer a {
@@ -193,7 +193,7 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 400px), only screen and (max-device-width: 800px) {
- 
+
 	#main_section {
 		border:none;
 	}
@@ -229,7 +229,7 @@ footer a:hover {
 	#index img {
 		width: 70%;
 		float: none;
-		margin: 0 auto;		
+		margin: 0 auto;
 		margin-bottom: 3em;
 		border-radius: 25px;
 	}
@@ -241,7 +241,7 @@ footer a:hover {
 	#education p {
 		margin-bottom: 5%;
 	}
-	
+
 	#experience h1 {
 		font-size: 42px;
 		margin-bottom: 5%;
@@ -260,6 +260,5 @@ footer a:hover {
 		font-size: 32px;
 	}
 
-	
+
  }
- 
